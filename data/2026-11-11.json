@@ -1,0 +1,31 @@
+{
+ "buscas": [
+  {
+   "quando": "2026-11-11 03:46",
+   "rota": "Osaka→Tóquio",
+   "ida": "2027-10-09",
+   "volta": "2027-11-01",
+   "dias": 23,
+   "menor_preco": null,
+   "top": [],
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYGicSCjIwMjctMTEtMDFqBwgBEgNITkRqBwgBEgNOUlRyBwgBEgNHUlVAAUABSAFwAZgBAw&tfu=EgIIAQ",
+   "status": "datas ainda não liberadas",
+   "alerta": false
+  },
+  {
+   "quando": "2026-11-11 03:46",
+   "rota": "Só ida GRU→Osaka",
+   "ida": "2027-10-09",
+   "volta": "",
+   "dias": "",
+   "menor_preco": null,
+   "top": [],
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
+   "status": "datas ainda não liberadas",
+   "alerta": false
+  }
+ ],
+ "alerta_min": null,
+ "modo": "só ida (volta ainda não à venda)",
+ "cota_restante": 242
+}
