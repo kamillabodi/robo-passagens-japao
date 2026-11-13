@@ -1,19 +1,19 @@
 {
  "buscas": [
   {
-   "quando": "2026-11-12 03:49",
+   "quando": "2026-11-13 03:48",
    "rota": "Osaka→Tóquio",
    "ida": "2027-10-09",
-   "volta": "2027-10-31",
-   "dias": 22,
+   "volta": "2027-11-01",
+   "dias": 23,
    "menor_preco": null,
    "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYGicSCjIwMjctMTAtMzFqBwgBEgNITkRqBwgBEgNOUlRyBwgBEgNHUlVAAUABSAFwAZgBAw&tfu=EgIIAQ",
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYGicSCjIwMjctMTEtMDFqBwgBEgNITkRqBwgBEgNOUlRyBwgBEgNHUlVAAUABSAFwAZgBAw&tfu=EgIIAQ",
    "status": "datas ainda não liberadas",
    "alerta": false
   },
   {
-   "quando": "2026-11-12 03:49",
+   "quando": "2026-11-13 03:48",
    "rota": "Só ida GRU→Osaka",
    "ida": "2027-10-09",
    "volta": "",
@@ -23,45 +23,9 @@
    "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
    "status": "datas ainda não liberadas",
    "alerta": false
-  },
-  {
-   "quando": "2026-11-12 08:44",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-10",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTEwagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
-  },
-  {
-   "quando": "2026-11-12 15:37",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-11",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTExagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
-  },
-  {
-   "quando": "2026-11-12 20:27",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-12",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTEyagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
   }
  ],
  "alerta_min": null,
  "modo": "só ida (volta ainda não à venda)",
- "cota_restante": 234
+ "cota_restante": 232
 }
