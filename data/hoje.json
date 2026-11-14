@@ -1,67 +1,57 @@
 {
  "buscas": [
   {
-   "quando": "2026-11-13 03:48",
+   "quando": "2026-11-14 03:35",
    "rota": "Osaka→Tóquio",
    "ida": "2027-10-09",
-   "volta": "2027-11-01",
-   "dias": 23,
+   "volta": "2027-10-31",
+   "dias": 22,
    "menor_preco": null,
    "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYGicSCjIwMjctMTEtMDFqBwgBEgNITkRqBwgBEgNOUlRyBwgBEgNHUlVAAUABSAFwAZgBAw&tfu=EgIIAQ",
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYGicSCjIwMjctMTAtMzFqBwgBEgNITkRqBwgBEgNOUlRyBwgBEgNHUlVAAUABSAFwAZgBAw&tfu=EgIIAQ",
    "status": "datas ainda não liberadas",
    "alerta": false
   },
   {
-   "quando": "2026-11-13 03:48",
+   "quando": "2026-11-14 03:35",
    "rota": "Só ida GRU→Osaka",
    "ida": "2027-10-09",
    "volta": "",
    "dias": "",
-   "menor_preco": null,
-   "top": [],
+   "menor_preco": 11893,
+   "top": [
+    {
+     "preco": 11893,
+     "cias": [
+      "Qatar Airways"
+     ],
+     "trajeto": "GRU > DOH > KIX",
+     "duracao_h": 27.5
+    },
+    {
+     "preco": 11893,
+     "cias": [
+      "Qatar Airways"
+     ],
+     "trajeto": "GRU > DOH > KIX",
+     "duracao_h": 32.9
+    },
+    {
+     "preco": 15157,
+     "cias": [
+      "American",
+      "JAL"
+     ],
+     "trajeto": "GRU > MIA > LAX > KIX",
+     "duracao_h": 31.5
+    }
+   ],
    "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
-  },
-  {
-   "quando": "2026-11-13 08:41",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-10",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTEwagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
-  },
-  {
-   "quando": "2026-11-13 15:31",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-11",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTExagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
-  },
-  {
-   "quando": "2026-11-13 20:26",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-12",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTEyagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
+   "status": "ok",
    "alerta": false
   }
  ],
  "alerta_min": null,
  "modo": "só ida (volta ainda não à venda)",
- "cota_restante": 230
+ "cota_restante": 228
 }
