@@ -1,19 +1,19 @@
 {
  "buscas": [
   {
-   "quando": "2026-11-14 03:35",
+   "quando": "2026-11-15 03:39",
    "rota": "Osaka→Tóquio",
    "ida": "2027-10-09",
-   "volta": "2027-10-31",
-   "dias": 22,
+   "volta": "2027-11-01",
+   "dias": 23,
    "menor_preco": null,
    "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYGicSCjIwMjctMTAtMzFqBwgBEgNITkRqBwgBEgNOUlRyBwgBEgNHUlVAAUABSAFwAZgBAw&tfu=EgIIAQ",
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYGicSCjIwMjctMTEtMDFqBwgBEgNITkRqBwgBEgNOUlRyBwgBEgNHUlVAAUABSAFwAZgBAw&tfu=EgIIAQ",
    "status": "datas ainda não liberadas",
    "alerta": false
   },
   {
-   "quando": "2026-11-14 03:35",
+   "quando": "2026-11-15 03:39",
    "rota": "Só ida GRU→Osaka",
    "ida": "2027-10-09",
    "volta": "",
@@ -37,57 +37,20 @@
      "duracao_h": 32.9
     },
     {
-     "preco": 15157,
+     "preco": 14741,
      "cias": [
-      "American",
-      "JAL"
+      "Emirates"
      ],
-     "trajeto": "GRU > MIA > LAX > KIX",
-     "duracao_h": 31.5
+     "trajeto": "GRU > DXB > KIX",
+     "duracao_h": 27.7
     }
    ],
    "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
    "status": "ok",
    "alerta": false
-  },
-  {
-   "quando": "2026-11-14 08:22",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-10",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTEwagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
-  },
-  {
-   "quando": "2026-11-14 15:21",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-11",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTExagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
-  },
-  {
-   "quando": "2026-11-14 20:22",
-   "rota": "Só ida GRU→Osaka",
-   "ida": "2027-10-12",
-   "volta": "",
-   "dias": "",
-   "menor_preco": null,
-   "top": [],
-   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTEyagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
-   "status": "datas ainda não liberadas",
-   "alerta": false
   }
  ],
  "alerta_min": null,
  "modo": "só ida (volta ainda não à venda)",
- "cota_restante": 225
+ "cota_restante": 223
 }
