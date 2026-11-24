@@ -1,0 +1,57 @@
+{
+ "buscas": [
+  {
+   "quando": "2026-11-24 03:47",
+   "rota": "Osaka→Tóquio",
+   "ida": "2027-10-09",
+   "volta": "2027-10-31",
+   "dias": 22,
+   "menor_preco": null,
+   "top": [],
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYGicSCjIwMjctMTAtMzFqBwgBEgNITkRqBwgBEgNOUlRyBwgBEgNHUlVAAUABSAFwAZgBAw&tfu=EgIIAQ",
+   "status": "datas ainda não liberadas",
+   "alerta": false
+  },
+  {
+   "quando": "2026-11-24 03:47",
+   "rota": "Só ida GRU→Osaka",
+   "ida": "2027-10-09",
+   "volta": "",
+   "dias": "",
+   "menor_preco": 12142,
+   "top": [
+    {
+     "preco": 12142,
+     "cias": [
+      "ANA",
+      "ITA"
+     ],
+     "trajeto": "GRU > FCO > HND > KIX",
+     "duracao_h": 32.2
+    },
+    {
+     "preco": 12389,
+     "cias": [
+      "Qatar Airways"
+     ],
+     "trajeto": "GRU > DOH > KIX",
+     "duracao_h": 27.5
+    },
+    {
+     "preco": 12389,
+     "cias": [
+      "Qatar Airways"
+     ],
+     "trajeto": "GRU > DOH > KIX",
+     "duracao_h": 32.9
+    }
+   ],
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTA5agcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
+   "status": "ok",
+   "alerta": false
+  }
+ ],
+ "alerta_min": null,
+ "modo": "só ida (volta ainda não à venda)",
+ "cota_restante": 152
+}
