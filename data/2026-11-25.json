@@ -126,9 +126,86 @@
    "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhonEgoyMDI3LTEwLTEwagcIARIDR1JVcgcIARIDSE5EcgcIARIDTlJUQAFAAUgBcAGYAQI&tfu=EgIIAQ",
    "status": "ok",
    "alerta": false
+  },
+  {
+   "quando": "2026-11-25 15:34",
+   "rota": "Só ida GRU→Osaka",
+   "ida": "2027-10-11",
+   "volta": "",
+   "dias": "",
+   "menor_preco": 12426,
+   "top": [
+    {
+     "preco": 12426,
+     "cias": [
+      "JAL",
+      "LATAM"
+     ],
+     "trajeto": "GRU > JFK > HND > KIX",
+     "duracao_h": 35.2
+    },
+    {
+     "preco": 12897,
+     "cias": [
+      "JAL",
+      "Qatar Airways"
+     ],
+     "trajeto": "GRU > DOH > HND > KIX",
+     "duracao_h": 34.1
+    },
+    {
+     "preco": 13607,
+     "cias": [
+      "Ethiopian",
+      "THAI"
+     ],
+     "trajeto": "GRU > ADD > BKK > KIX",
+     "duracao_h": 41.8
+    }
+   ],
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhoeEgoyMDI3LTEwLTExagcIARIDR1JVcgcIARIDS0lYQAFAAUgBcAGYAQI&tfu=EgIIAQ",
+   "status": "ok",
+   "alerta": false
+  },
+  {
+   "quando": "2026-11-25 15:34",
+   "rota": "Só ida GRU→Tóquio",
+   "ida": "2027-10-11",
+   "volta": "",
+   "dias": "",
+   "menor_preco": 10468,
+   "top": [
+    {
+     "preco": 10468,
+     "cias": [
+      "American"
+     ],
+     "trajeto": "GRU > JFK > HND",
+     "duracao_h": 27.4
+    },
+    {
+     "preco": 11535,
+     "cias": [
+      "Qatar Airways"
+     ],
+     "trajeto": "GRU > DOH > HND",
+     "duracao_h": 25.4
+    },
+    {
+     "preco": 11535,
+     "cias": [
+      "Qatar Airways"
+     ],
+     "trajeto": "GRU > DOH > NRT",
+     "duracao_h": 28.4
+    }
+   ],
+   "link": "https://www.google.com/travel/flights?hl=pt&gl=br&curr=BRL&tfs=CBwQAhonEgoyMDI3LTEwLTExagcIARIDR1JVcgcIARIDSE5EcgcIARIDTlJUQAFAAUgBcAGYAQI&tfu=EgIIAQ",
+   "status": "ok",
+   "alerta": false
   }
  ],
  "alerta_min": null,
  "modo": "só ida (volta ainda não à venda)",
- "cota_restante": 141
+ "cota_restante": 139
 }
